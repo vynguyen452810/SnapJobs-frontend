@@ -4,10 +4,15 @@ SnapJobs is a full-stack web application that enables users to track their job a
 # Technology
 React, Node, Express, MongoDB,Javascript, HTML, CSS, express, API,
 
-**BACKEND DEPLOYMENT**
+# Overview
+![image info](./public/screenshots/iteration3/homepage1.png)
+![image info](./public/screenshots/iteration3/chart.png)
+![image info](./public/screenshots/iteration3/accepted_card.png)
+![image info](./public/screenshots/iteration3/pending_card.png)
+![image info](./public/screenshots/iteration3/declined_card.png)
 
-1. Link: https://snapjobs-backend-teamvs.herokuapp.com/api/v1/jobs
 
-**FRONTEND DEPLOYMENT**
 
-1. Link: https://snapjobs-frontend-teamvs.herokuapp.com/
+
+
+
